@@ -1,0 +1,2 @@
+# MyPlatform.TableManagementService
+MyPlatform.TableManagementService
